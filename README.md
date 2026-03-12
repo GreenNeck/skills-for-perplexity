@@ -14,8 +14,16 @@ Este guia abrange:
 *   **Copywriting Persuasivo**: Frameworks como AIDA (Atenção, Interesse, Desejo, Ação) e PAS (Problema, Agitação, Solução), além de diretrizes de tom de voz e instruções de uso.
 *   **E-mail Marketing**: Anatomia de e-mails de alta conversão, tipos de e-mail (boas-vindas, nutrição, venda), melhores práticas (segmentação, personalização, teste A/B) e fórmulas de assunto comprovadas. Inclui um template de sequência de boas-vindas.
 *   **Ad Copy (Anúncios Pagos)**: Estrutura de anúncios de alta performance (Hook, Body, CTA), diretrizes específicas para Meta Ads, Google Ads e LinkedIn Ads, tipos de anúncio por objetivo e boas práticas. Inclui templates de anúncios para Meta Ads.
+*   **Human Writing (Escrita Humanizada)**: Técnicas para escrever de forma autêntica e natural, evitando os clichês e padrões de IA, inspiradas nas melhores práticas do Claude.
 
-### 2. Design Master Guide
+### 2. Marketing Master Guide
+
+**Arquivo**: [`marketing-master-guide.md`](./marketing-master-guide.md)
+
+Este guia abrange:
+*   **Estratégia de Marketing (Claude-style)**: Desenvolvimento de estratégias de marketing e conteúdo com foco em autenticidade e voz de marca, incluindo Voice DNA, Audience Profile e Business Context. Inclui uma estrutura de prompt otimizada para modelos de linguagem.
+
+### 3. Design Master Guide
 
 **Arquivo**: [`design-master-guide.md`](./design-master-guide.md)
 
